@@ -14,7 +14,7 @@ function scuberGreetingForFeet (ride){
 }
 
 
-function ternaryCheckCity() {
+function ternaryCheckCity(city) {
 
   let check;
 
