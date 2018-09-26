@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-scuberGreetingForFeet(ride){
+function scuberGreetingForFeet(ride){
 
   let cost;
   if (ride <= 400) {
