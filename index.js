@@ -12,3 +12,12 @@ function scuberGreetingForFeet (ride){
   }
   return cost
 }
+
+
+function ternaryCheckCity() {
+
+  let check;
+
+  city === 'NYC' ? 'Ok, sounds good.' : 'No go.'
+
+}
